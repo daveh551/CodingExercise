@@ -1,0 +1,8 @@
+c:\users\dave\Documents\VSProjects\HeadspringExercize\HeadspringExercize\bin\Debug\HeadspringExercize.exe.config
+c:\users\dave\Documents\VSProjects\HeadspringExercize\HeadspringExercize\bin\Debug\HeadspringExercize.exe
+c:\users\dave\Documents\VSProjects\HeadspringExercize\HeadspringExercize\bin\Debug\HeadspringExercize.pdb
+c:\users\dave\Documents\VSProjects\HeadspringExercize\HeadspringExercize\obj\Debug\HeadspringExercize.csprojResolveAssemblyReference.cache
+c:\users\dave\Documents\VSProjects\HeadspringExercize\HeadspringExercize\obj\Debug\HeadspringExercize.exe
+c:\users\dave\Documents\VSProjects\HeadspringExercize\HeadspringExercize\obj\Debug\HeadspringExercize.pdb
+c:\users\dave\Documents\VSProjects\HeadspringExercize\HeadspringExercize\bin\Debug\FizzBuzz.dll
+c:\users\dave\Documents\VSProjects\HeadspringExercize\HeadspringExercize\bin\Debug\FizzBuzz.pdb

@@ -1,0 +1,5 @@
+c:\users\dave\Documents\VSProjects\HeadspringExercize\FizzBuzz\bin\Debug\FizzBuzz.dll
+c:\users\dave\Documents\VSProjects\HeadspringExercize\FizzBuzz\bin\Debug\FizzBuzz.pdb
+c:\users\dave\Documents\VSProjects\HeadspringExercize\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+c:\users\dave\Documents\VSProjects\HeadspringExercize\FizzBuzz\obj\Debug\FizzBuzz.dll
+c:\users\dave\Documents\VSProjects\HeadspringExercize\FizzBuzz\obj\Debug\FizzBuzz.pdb

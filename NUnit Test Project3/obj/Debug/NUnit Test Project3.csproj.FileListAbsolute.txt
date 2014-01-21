@@ -1,0 +1,11 @@
+c:\users\dave\Documents\VSProjects\HeadspringExercize\NUnit Test Project3\bin\Debug\NUnit Test Project1.dll
+c:\users\dave\Documents\VSProjects\HeadspringExercize\NUnit Test Project3\bin\Debug\NUnit Test Project1.pdb
+c:\users\dave\Documents\VSProjects\HeadspringExercize\NUnit Test Project3\bin\Debug\HeadspringExercize.exe
+c:\users\dave\Documents\VSProjects\HeadspringExercize\NUnit Test Project3\bin\Debug\nunit.framework.dll
+c:\users\dave\Documents\VSProjects\HeadspringExercize\NUnit Test Project3\bin\Debug\HeadspringExercize.pdb
+c:\users\dave\Documents\VSProjects\HeadspringExercize\NUnit Test Project3\bin\Debug\nunit.framework.xml
+c:\users\dave\Documents\VSProjects\HeadspringExercize\NUnit Test Project3\obj\Debug\NUnit Test Project3.csprojResolveAssemblyReference.cache
+c:\users\dave\Documents\VSProjects\HeadspringExercize\NUnit Test Project3\obj\Debug\NUnit Test Project1.dll
+c:\users\dave\Documents\VSProjects\HeadspringExercize\NUnit Test Project3\obj\Debug\NUnit Test Project1.pdb
+c:\users\dave\Documents\VSProjects\HeadspringExercize\NUnit Test Project3\bin\Debug\FizzBuzz.dll
+c:\users\dave\Documents\VSProjects\HeadspringExercize\NUnit Test Project3\bin\Debug\FizzBuzz.pdb
